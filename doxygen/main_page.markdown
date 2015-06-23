@@ -2,9 +2,9 @@
 
 # The List of subpages:
 
-* Page \subpage subpage_1
-* Page \subpage subpage_2
-* Page \subpage subpage_3
+* Page @subpage subpage_1
+* Page @subpage subpage_2
+* Page @subpage subpage_3
 
 # This is a section title
 
