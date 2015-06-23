@@ -1,11 +1,11 @@
-/*!
+/**
  * @defgroup group_main My Project Modules
  * @brief All project modules
  *
  * @{
  */
 
-/*! @defgroup group_math Math library */
-/*! @defgroup group_misc Misc library */
+/** @defgroup group_math Math library */
+/** @defgroup group_misc Misc library */
 
-/*! @} */
+/** @} */
